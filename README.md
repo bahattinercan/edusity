@@ -1,5 +1,8 @@
 Edusity - Responsive (React + Vite) 
 
+Contact us ile email gönderebiliyoruz.
+Video oynatıcı'da ekli.
+
 ![Ekran görüntüsü 2024-04-13 214731](https://github.com/bahattinercan/edusity/assets/92323340/08553ec2-6821-4457-8691-2bd8ead92cca)
 ![Ekran görüntüsü 2024-04-13 214744](https://github.com/bahattinercan/edusity/assets/92323340/c10ba7d6-38d4-441b-9cd1-70e8eadd68aa)
 ![Ekran görüntüsü 2024-04-13 214748](https://github.com/bahattinercan/edusity/assets/92323340/f7669ada-5dc1-4cab-92f4-c060d00bbe24)

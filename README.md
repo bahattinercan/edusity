@@ -11,7 +11,7 @@ Video oynatıcı'da ekli.
 ![Ekran görüntüsü 2024-04-13 214803](https://github.com/bahattinercan/edusity/assets/92323340/4b943ba6-9328-44f8-b83d-d7f9e4a6171d)
 ![Ekran görüntüsü 2024-04-13 214807](https://github.com/bahattinercan/edusity/assets/92323340/f2611825-167a-45cf-a2cf-a5bfe9586a40)
 ![Ekran görüntüsü 2024-04-13 214809](https://github.com/bahattinercan/edusity/assets/92323340/72d64bcd-b628-4520-965c-26d0179f0e74)
-![Ekran görüntüsü 2024-04-13 214912](https://github.com/bahattinercan/edusity/assets/92323340/34ea4892-f4e6-4cfd-975f-ddcf2b22e1f2)
+![Ekran görüntüsü 2024-04-13 214912](https://github.com/bahattinercan/edusity/assets/92323340/b54a12fe-19e5-4301-9205-26821af9852c)
 ![Ekran görüntüsü 2024-04-13 214920](https://github.com/bahattinercan/edusity/assets/92323340/a3342ef0-7d7a-4a5d-a9ef-96395ff87995)
 ![Ekran görüntüsü 2024-04-13 214925](https://github.com/bahattinercan/edusity/assets/92323340/0efd5a59-cffe-43ed-b486-967bc87279ee)
 ![Ekran görüntüsü 2024-04-13 214931](https://github.com/bahattinercan/edusity/assets/92323340/f40a8ed9-3b7e-4007-8f95-7cfdb1faf209)

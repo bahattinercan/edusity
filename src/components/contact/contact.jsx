@@ -1,5 +1,4 @@
 import React from "react";
-import { access_key } from "../../Constant";
 import locationIcon from "../../assets/location-icon.png";
 import mailIcon from "../../assets/mail-icon.png";
 import messageIcon from "../../assets/msg-icon.png";
@@ -7,15 +6,28 @@ import phoneIcon from "../../assets/phone-icon.png";
 import arrowIcon from "../../assets/white-arrow.png";
 import "./contact.css";
 
+// Anahtar koda gomulmez: `src/Constant.jsx` .gitignore'daydi, bu yuzden repoyu
+// klonlayan hic kimse derleyemiyordu (Vite "Could not resolve ../../Constant").
+// Artik derleme zamaninda ortam degiskeninden geliyor.
+const accessKey = (import.meta.env.VITE_WEB3FORMS_ACCESS_KEY ?? "").trim();
+
 const Contact = () => {
   const [result, setResult] = React.useState("");
 
   const onSubmit = async (event) => {
     event.preventDefault();
+
+    if (!accessKey) {
+      setResult(
+        "Form is not configured: set VITE_WEB3FORMS_ACCESS_KEY in your .env file."
+      );
+      return;
+    }
+
     setResult("Sending....");
     const formData = new FormData(event.target);
 
-    formData.append("access_key", access_key);
+    formData.append("access_key", accessKey);
 
     const response = await fetch("https://api.web3forms.com/submit", {
       method: "POST",
